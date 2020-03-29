@@ -5,3 +5,4 @@ Execute the 'HousingPrice.py' python file
 
 Screenshot - 
 
+<img src = "screenshots/graph.png">
