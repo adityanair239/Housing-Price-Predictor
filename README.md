@@ -3,6 +3,6 @@ Housing price predictor using Linear Regression model of sklearn
 
 Execute the 'HousingPrice.py' python file
 
-Screenshot - 
+<h3>Screenshots -</h3> 
 
 <img src = "screenshots/graph.png">
